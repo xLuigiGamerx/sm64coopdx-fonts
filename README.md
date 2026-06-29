@@ -1,2 +1,2 @@
-# sm64coopdx-fonts
-A repo that is used to store and update fonts
+# Coop Fonts
+This repo is for the purpose of storing the fonts that coop use and making/updating them. The fonts' characters must be identical in style to the font they're in and must be in the correct unicode block image for contributions to be accepted.
